@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/readme-assets/fist.png" width="100" height="100" />
+  <img src="https://github.com/not-woowacourse/.github/blob/main/profile/readme-assets/fist.png" width="100" height="100" />
   <h1>우테코 따라잡기 <sub>(근데 이제 Next.js를 곁들인)<sub></h1>
   <p>2024-1 KUCC 세션<p>
   <a href="https://yopark.notion.site/Next-js-ae89c879b8f948f4a3c841d317fa7849">Notion 페이지</a>
