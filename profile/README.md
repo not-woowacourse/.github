@@ -31,9 +31,9 @@
 
 [Notion 페이지](https://yopark.notion.site/2-578847ae083a41788d774961a89ae059)
 
-- 구현과제 4 : 미정
-- 구현과제 5 : 미정
-- 구현과제 6 : 미정
+- 구현과제 4 : MVC 패턴을 활용한 1P 블랙잭 게임 구현 - [Blackzack 레포지토리](https://github.com/not-woowacourse/4-blackzack)
+- 구현과제 5 : 로그인/로그아웃이 가능한 SPA를 React 없이 구현 - [Sppap 레포지토리](https://github.com/not-woowacourse/5-sppap-frontend)
+- 구현과제 6 : API 호출을 활용한 코딩게임 : 안암역 5번출구 카페사장님 - [Anamcafe 레포지토리](https://github.com/not-woowacourse/6-anamcafe-client)
 
 | 주차  | 날짜       | 내용                                                        | 비고                                |
 | ----- | ---------- | ----------------------------------------------------------- | ----------------------------------- |
