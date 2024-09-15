@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/not-woowacourse/.github/blob/main/profile/readme-assets/fist.png" width="100" height="100" />
   <h1>우테코 따라잡기</h1>
-  <p>2024-1, 2024-2 KUCC 세션<p>
+  <p><a href="https://kucc.co.kr">KUCC</a> 2024-1, 2024-2 세션<p>
 </div>
 
 <h2>1학기. 우테코 따라잡기 <sub>(근데 이제 Next.js를 곁들인)</sub></h2>
